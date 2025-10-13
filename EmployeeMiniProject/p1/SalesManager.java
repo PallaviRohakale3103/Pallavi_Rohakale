@@ -1,0 +1,33 @@
+package p1;
+public class SalesManager extends Employee {
+    int target;
+    double incentive;
+
+    public SalesManager() {
+        super();
+    }
+
+    public SalesManager(int id, String name, double salary, int target, double incentive) {
+        super(id, name, salary);
+        this.target = target;
+        this.incentive = incentive;
+    }
+
+    public int getTarget() {
+        return target;
+    }
+
+    public double getIncentive() {
+        return incentive;
+    }
+
+    @Override
+    public double calculateSalary() {
+        return getSalary() + incentive;
+    }
+
+    @Override
+    public String toString() {
+        return super.toString() + "\nTarget: " + target + "\nIncentive: " + incentive;
+    }
+}
