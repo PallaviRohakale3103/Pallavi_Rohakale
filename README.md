@@ -183,9 +183,9 @@ This complete architecture operates underneath the **MIT Open-Source Engine Lice
   
   <br>
   
-  <p><strong>Department of Business Administration</strong></p>
-  <p>Modern College of Business Administration</p>
-  <p><em>Academic Year 2023 - 2024</em></p>
+  <p><strong>Bachelor of Computer Application</strong></p>
+  <p>DR DY Patil pimpri Pune</p>
+  <p><em>Academic Year 2024 - 2025</em></p>
   
 </div>
 
