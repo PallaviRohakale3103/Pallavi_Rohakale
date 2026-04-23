@@ -1,0 +1,3 @@
+@echo off
+echo Starting Water Quality Monitoring Frontend...
+call npm start
